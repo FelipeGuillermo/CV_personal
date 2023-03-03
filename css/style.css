@@ -1,0 +1,62 @@
+.header { background-image: url(/CV_personal/img/photo-1524100880052-104a85d5ab82.jfif); 
+background-color: #658468;
+color: #E1F2E3;
+text-align: center;
+font-size: 50px; }
+
+.top-datos-personales { background-color: #658468;
+color: #E1F2E3;
+font-size: 30px; }
+
+.top-formacion-academica { background-color: #658468;
+color: #E1F2E3;
+font-size: 20px; }
+
+.top-experiencia-laboral { background-color: #658468;
+color: #E1F2E3;
+font-size:  30px; }
+
+.body-formacion-academica {
+    font-size: 15px;
+color:black;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium'; }
+
+.body-experiencia-laboral { font-size: 15px;
+    color: black;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium'; }
+
+.body-datos-personales { 
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+ }  
+
+span { font-weight: normal;
+font-size: 15px;
+font-style: italic;
+font-family: 'Gill Sans';}
+
+.foto { width: 250px;
+height: 350px; }
+
+.foto { position: absolute;
+right: 130px;
+bottom: -442px; }
+
+div { position: relative;}
+
+.style-footer { text-align: center;
+font-size: 18px;
+}
+
+.masSobreMi { text-align: right;
+position: relative;
+left: -30px;
+top: -25px;
+color: #658468;
+}
+
+.fa-brands { color: black;}
